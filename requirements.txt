@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-dotenv
+
+langchain-core
+langchain-openai
+langchain-community
+langchain-text-splitters
+langchain-pinecone
+
+pinecone-client
+sentence-transformers
+
+azure-storage-blob
+pypdf
+python-docx
+unstructured
